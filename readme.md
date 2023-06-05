@@ -20,7 +20,7 @@
 
 ### External addons
 
--Blender OSM for importing satellites and 3d data to scale
+- Blender OSM for importing satellites and 3d data to scale
 
 - Simple Lattice - automates the process of creating a lattice to the bounding box of the slected objects
 
@@ -31,3 +31,4 @@
 - Stable Diffusion AI in Blender - AI in Blender. More on the level of quality of DALL-E than Midjourney, but very useful since you can have a simple render that can be then plugged into the AI to use as a base.
 
 - Sketchfab addon - load sketchfab files directly in Blender
+- floorplanner https://johnnygizmo.gumroad.com/l/floorplanner
